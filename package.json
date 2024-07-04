@@ -1,0 +1,16 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "A QR code generator that can generate the QR-code of any URL the user inputs.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mingfang XU",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.2",
+    "qr-image": "^3.2.0"
+  }
+}
